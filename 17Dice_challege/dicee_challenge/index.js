@@ -9,7 +9,7 @@ let img1 = document.querySelectorAll("img")[0];
 
 img1.setAttribute("src", randomImgSrc);
 
-//player 2 dice
+//player 2 dice & code refactored
 
 let randomNumber2 = Math.floor(Math.random() * 6) + 1;
 
