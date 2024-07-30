@@ -25,3 +25,5 @@ function HouseKeeper (name, yearsOfExperience, cleaningTask) {
 
 let houseKeeper1 = new HouseKeeper ("Viviane", 5, ["lobby", "bathroom"]);
 let houseKeeper2 = new HouseKeeper ("Ronnie", 30, ["gym", "bathroom", "lobby"])
+
+
